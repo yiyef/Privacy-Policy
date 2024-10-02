@@ -1,36 +1,59 @@
-# Privacy Policy for Star Life Simulator
+Privacy Policy for Star Life Simulator
 
-*Effective date: 2024-10-02
+Effective date: 2024-10-02
 
-## Introduction
+1. Introduction
 
-Oneleafgame ("we" or "us" or "our") respects the privacy of our users ("user" or "you"). This Privacy Policy explains our practices regarding the collection, use, and disclosure of information when you use our mobile application Star Life Simulator (the "Application"). Please read this privacy policy carefully. If you do not agree with the terms of this privacy policy, please do not access the application.
+This Privacy Policy governs the manner in which Oneleafgame ("we", "us", or "our") collects, uses, maintains, and discloses information collected from users (each, a "User") of the Star Life Simulator mobile application ("App").
 
-## No Collection of Personal Information
+2. Personal Information Collection
 
-We want to assure you that Star Life Simulator does not collect, use, store, or share any personal information about our users. The game is designed to function entirely on your device without the need for any data collection.
+We respect your privacy and are committed to protecting it. We do not collect, store, or share any personal or sensitive user data through our App. The game is designed to function entirely on your device without any data collection or transmission.
 
-## Data Storage and Security
+3. Non-personal Information Collection
 
-All game data, including your progress and preferences, is stored locally on your device. We do not have access to this information, and it remains entirely under your control.
+The App does not collect any non-personal information about Users.
 
-## Third-Party Services
+4. Web browser cookies
 
-Our Application does not use any third-party services that would collect data about you or your device.
+The App does not use "cookies".
 
-## Children's Privacy
+5. How we use collected information
 
-Our Application does not collect any personal information from users, regardless of age. The game is safe for use by children, as it does not gather or transmit any data.
+As we do not collect any user data, we do not use, share, or disclose any information.
 
-## Changes to This Privacy Policy
+6. How we protect your information
 
-We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "effective date" at the top of this Privacy Policy. You are advised to review this Privacy Policy periodically for any changes.
+We do not collect or store any user data on our servers. All game data is stored locally on your device and remains under your control.
 
-## Contact Us
+7. Sharing your personal information
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:
+We do not collect or share any personal information.
 
-Oneleafgame  
-[Your Email Address]  
-[Your Physical Address (optional)]  
-[Your Website (if available)]
+8. Third-party services
+
+Our App does not use any third-party services that would access, collect, use, or share data about you or your device.
+
+9. Children's Privacy
+
+Our App does not collect personal information from anyone, including children under the age of 13.
+
+10. Changes to this privacy policy
+
+We may update this privacy policy at any time. When we do, we will revise the updated date at the top of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we do not collect.
+
+11. Data retention and deletion
+
+As we do not collect or store any user data on our servers, we do not have a data retention or deletion policy. All game data is stored locally on your device and can be deleted by uninstalling the application or clearing app data through your device's settings.
+
+12. Your acceptance of these terms
+
+By using this App, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our App.
+
+13. Contacting us
+
+If you have any questions about this Privacy Policy, the practices of this App, or your dealings with this App, please contact us at:
+
+Oneleafgame
+oneleafgame@gmail.com
+This document was last updated on [Current Date]
