@@ -1,6 +1,6 @@
 # Privacy Policy for Star Life Simulator
 
-*Effective date: [Current Date]*
+*Effective date: 2024-10-02
 
 ## Introduction
 
