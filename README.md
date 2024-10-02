@@ -44,7 +44,7 @@ b) Information collected: The ad service may collect and process certain data, w
 
 c) Use of Information: This information is used to serve personalized ads and measure ad performance.
 
-d) Data Sharing: The information collected by the ad service is subject to their own privacy policy. Please refer to [ "https://policies.google.com/privacy"]for more details on their data practices.
+d) Data Sharing: The information collected by the ad service is subject to their own privacy policy. Please refer to [ "https://policies.google.com/privacy"]  for more details on their data practices.
 
 e) Controls: You can opt out of personalized advertising by adjusting your device settings. On Android, you can do this by going to Settings > Google > Ads.
 
