@@ -1,1 +1,29 @@
-supportfile
+# Hollywood Star Life Simulation - Support
+
+## Frequently Asked Questions
+
+### Q: How do I start my Hollywood career?
+A: When you begin the game, you'll start as an unknown actor. Look for audition opportunities and accept small roles to build your experience and reputation.
+
+### Q: How can I improve my acting skills?
+A: You can improve your acting skills by taking classes, practicing regularly, and accepting challenging roles that push your boundaries.
+
+### Q: What's the best way to manage my social media presence?
+A: Regularly post updates, interact with fans, and carefully manage your public image. Be mindful of controversial topics that could affect your career.
+
+### Q: How do I unlock VIP events?
+A: VIP events become available as you progress in your career. Hiring a good agent or publicist can also help you access exclusive events faster.
+
+
+
+## Contact Us
+
+If you have any other questions or need further assistance, please don't hesitate to contact us:
+
+Email: Oneleafgame@gmail.com
+
+
+## Privacy Policy and Terms of Service
+
+For information about our privacy policy, please visit:
+- [Privacy Policy]https://github.com/yiyef/Privacy-Policy/blob/main/README.md
